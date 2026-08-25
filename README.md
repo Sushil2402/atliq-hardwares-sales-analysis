@@ -267,9 +267,11 @@ India was the leading country, contributing approximately **44%** of the combine
 
 ---
 
+---
+
 ## Author
 
 **Sushil Yadav**
 Transitioning from 4+ years in equity markets (Kotak Securities, AngelOne) into Data Analytics.
 
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/sushil-yadav-880a2a217/)) · [GitHub](https://github.com/Sushil2402)
+[LinkedIn](https://www.linkedin.com/in/sushil-yadav-880a2a217/) · [GitHub](https://github.com/Sushil2402)
